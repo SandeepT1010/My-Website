@@ -1,0 +1,31 @@
+h1 {
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+    font-family: monospace;
+    font-size: 60px;
+    border: dotted;
+    border-color: chocolate; 
+}
+li{
+    font-size: 45px;
+    text-transform: capitalize;
+    padding: 10px;
+}
+ol{
+    border-style: dashed;
+    border-width: 1px;
+    margin: 50px;
+}
+a{
+    color:rgb(194, 7, 79);
+}
+a:visited{
+    color: rgb(136, 190, 235);
+}
+a:active{
+    color: chocolate;
+}
+a:hover{
+    color: darkcyan;
+}
